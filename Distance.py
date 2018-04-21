@@ -1,6 +1,5 @@
 # MBD2-p66a inhibitor discovery
 # Distance between compound and binding site calculation
-# Python 3.4
 # Insung Na. 11/28/2014
 
 from scipy.spatial import distance
