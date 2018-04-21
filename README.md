@@ -1,15 +1,19 @@
 # MBD2-p66a-Inhibitor-Discovery
 
-Created according to Nature Research Guideline.
+Created according to Nature Research Guideline on 04/20/2018.
 
-Python 3.4 codes listed below.
+Python 3 codes listed below.
 
 
-1. Distance measurement between protein & ligand after molecular docking.
+1. Convert DOCK result into PDB.
 
-Python 3.4 Code : Distance.py
+Python 3 Code : Convert.py
 
-2. Heatmap of protein - ligand contact number.
+2. Distance measurement between protein & ligand after molecular docking.
 
-Python 3.4 Code : Heatmap.py
+Python 3 Code : Distance.py
+
+3. Heatmap of protein - ligand contact number.
+
+Python 3 Code : Heatmap.py
 
