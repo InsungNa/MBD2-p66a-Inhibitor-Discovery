@@ -1,6 +1,5 @@
 # Heatmap with Color Bar
 # MBD2-p66a inhibitor discovery
-# Python 3.4
 # Insung Na. 10/12/2016
 
 import matplotlib.pyplot as plt
