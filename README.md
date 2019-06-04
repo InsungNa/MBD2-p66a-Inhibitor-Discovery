@@ -1,6 +1,6 @@
 # MBD2-p66a-Inhibitor-Discovery
 
-Created according to Journal submission Guideline on 04/20/2018.
+Created according to journal submission guideline on 04/20/2018.
 
 Python 3 codes listed below.
 
